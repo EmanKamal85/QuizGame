@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="account">Do not have an account <font color='#6200EE'>Sign Up</font></string>
+    <string name="forget_password"><u>Forgot your password?</u></string>
+</resources>
